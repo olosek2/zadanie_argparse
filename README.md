@@ -1,1 +1,1 @@
-# zadanie_argparse
+# zadania_pixel
